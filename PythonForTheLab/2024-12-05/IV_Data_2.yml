@@ -1,0 +1,14 @@
+DAQ:
+  port_number: 5
+  resistance: 220
+Save:
+  data_folder: C:/Users/lr9/OneDrive - National Physical Laboratory/Documents/Data/PythonForTheLab/PythonForTheLabDay3
+  filename: IV_Data.dat
+Scan:
+  channel_in: 0
+  channel_out: 0
+  start: 2.0
+  step: 0.05
+  stop: 3.1
+User:
+  name: Aquiles

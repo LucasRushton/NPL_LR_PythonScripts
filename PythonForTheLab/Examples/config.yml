@@ -1,0 +1,18 @@
+User:
+  name: Aquiles
+
+DAQ:
+  port_number: 5
+  resistance: 220
+  model: DummyDAQ  # (DummyDAQ or RealDAQ)
+
+Scan:
+  channel_out: 0
+  channel_in: 0
+  start: 0  # in volts
+  stop: 3.1  # in volts
+  step: 0.05  # in volts
+
+Save:
+  data_folder: P:\Coldatom\Telesto\2024\241213\Part2_SpinMaserWithThermocouple
+  filename: ThermocoupleTTypeData.dat

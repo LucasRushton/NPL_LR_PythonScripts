@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: PFTL
+Version: 1.0
+Requires-Dist: PyQt5
+Requires-Dist: PyYAML
+Requires-Dist: pyserial
+Requires-Dist: numpy
+Requires-Dist: pyvisa
+Requires-Dist: matplotlib
+Requires-Dist: pyqtgraph

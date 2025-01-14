@@ -1,0 +1,7 @@
+PyQt5
+PyYAML
+pyserial
+numpy
+pyvisa
+matplotlib
+pyqtgraph

@@ -1,0 +1,14 @@
+DAQ:
+  port_number: 5
+  resistance: 220
+Save:
+  data_folder: ''
+  filename: IV_Data.dat
+Scan:
+  channel_in: 0
+  channel_out: 0
+  start: 0.0
+  step: 0.01
+  stop: 3.1
+User:
+  name: Aquiles
